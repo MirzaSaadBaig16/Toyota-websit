@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    background-color:whitesmoke;
+    height: 10vh;
+}
+.navbar img{
+    width: 10vw;
+}
+li{
+   display: inline;
+    margin-right: 1vw;
+   padding: 1vw; 
+}
+.butt{
+    margin-right: 1vw;
+    text-align: center;
+    margin-top: 1vw;
+}
+.second img{
+    width: 100vw;
+}
+
+button.bu{
+    background-color: red;
+    color: white;
+}
+.first{
+    position: relative;
+}
+.third{
+    position: absolute;
+    margin: -120px 30px;
+}
+.pa{
+    color: white;
+}
+.ha{
+    color: white;
+}
+.forth{
+    height: 5vw;
+    background-color: whitesmoke;
+    text-align: center; 
+    /* margin-top: 2vw;       */
+}
+a{
+    text-decoration: none;
+    color: white;
+    /* margin-top: 2vw; */
+    /* justify-content: center; */
+}
+.six img{
+    height:60vh ;
+}
+.fiv{
+    display: flex;
+}
+.sev{
+    margin-left: 3vw;
+    margin-top: 5vw;
+}
+.eig{
+    position: relative;
+}
+.nin img{
+    width: 100vw;
+}
+.ten{
+    position: absolute;
+    margin: -120px 8px;
+}
+.pd{
+    color: darkgray;
+}
+.cl{
+    color: darkgray;
+}
